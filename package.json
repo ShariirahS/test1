@@ -1,0 +1,25 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "test1 description",
+  "main": "app.js",
+  "homepage": "https://mysite.com",
+  "funding": "http://example.com/donate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shariirahs/test1"
+  },
+  "dependencies": {
+    "express": "expressjs/express",
+    "mocha": "mochajs/mocha#4727d357ea",
+    "module": "user/repo#feature/branch",
+    "fs": "r-lib/fs",
+    "he": "mathiasbynens/he",
+    "cssesc": "mathiasbynens/cssesc"
+  },
+  "keywords": [
+    "test1"
+  ],
+  "author": "shari gorgi <b@rubbsdle.com> (http://sdfsd.tumbsdfsdlr.com/)",
+  "license": "MIT"
+}
